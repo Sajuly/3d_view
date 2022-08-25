@@ -3,10 +3,10 @@
 
 #include <QMainWindow>
 // #include <QOpenGLWidget>
-#include <QGridLayout>
-#include <QWidget>
+// #include <QGridLayout>
+// #include <QWidget>
 #include <QFileDialog>
-#include <QTimer>
+// #include <QTimer>
 
 
 QT_BEGIN_NAMESPACE
